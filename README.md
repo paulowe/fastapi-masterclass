@@ -10,5 +10,6 @@ FastApi repository with Python, Full Stack, OAuth2, SQLAlchemy...
 
 The repository features:
 - How to leverage Pydantic bts for automated validaiton
-- Use of response 
+- Using Path and Query parameters 
+- Use of response object to provide status codes for your methods
 
